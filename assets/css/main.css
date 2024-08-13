@@ -165,7 +165,8 @@ textarea {
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
-	overflow: hidden;/ position: relative;
+	overflow: hidden;
+	position: relative;
 }
 
 @keyframes slide-in-from-top {
